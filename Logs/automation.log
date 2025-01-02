@@ -1,47 +1,24 @@
-18:21:57:947 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
-18:21:58:334 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
-18:21:58:359 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
-18:22:04:552 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
-18:22:07:454 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
-18:22:08:227 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
-18:22:13:441 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
-18:22:13:756 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
-18:22:13:778 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
-18:22:18:384 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-18:22:30:190 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-18:22:30:197 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-18:23:04:426 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-18:23:04:432 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-18:23:41:333 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-18:23:41:340 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-18:23:47:576 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-18:24:21:203 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-10:36:30:005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Framework Workspace\HybridDrivenFrameworkProject\mastertestng.xml
-
-10:36:32:708 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
-10:36:32:759 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
-10:36:41:572 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
-10:36:43:664 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-10:36:48:274 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-10:36:48:389 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
-10:36:52:608 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
-10:36:52:649 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
-10:36:53:052 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
-10:36:53:091 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
-10:36:58:595 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
-10:37:00:650 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
-10:37:01:258 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
-10:37:03:672 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
-10:37:03:923 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
-10:37:03:940 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
-10:37:09:911 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-10:37:17:132 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-10:37:17:137 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-10:37:49:740 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-10:37:49:746 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-10:38:23:004 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-10:38:23:007 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-10:38:29:282 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
-10:38:29:311 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
-10:39:02:773 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+11:40:16:734 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+11:40:21:416 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+11:40:23:535 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+11:40:23:642 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+11:40:27:060 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+11:40:27:101 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+11:40:27:360 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+11:40:27:383 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+11:40:34:167 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
+11:40:36:855 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+11:40:37:493 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+11:40:39:978 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
+11:40:40:227 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+11:40:40:252 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+11:40:48:216 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+11:40:54:332 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+11:40:54:342 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+11:41:27:438 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+11:41:27:463 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+11:42:00:692 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+11:42:00:698 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+11:42:10:550 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+11:42:10:565 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+11:42:44:535 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
