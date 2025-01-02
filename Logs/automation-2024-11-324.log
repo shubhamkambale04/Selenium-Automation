@@ -1,0 +1,71 @@
+15:37:15:218 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:15:225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:15:225 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:15:227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:15:228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:15:230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:15:230 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:15:232 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:37:15:233 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:37:15:250 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\AppData\Local\Temp\testng-eclipse-1161732801\testng-customsuite.xml
+
+15:37:15:277 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+15:37:15:734 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@68fa0ba8: 146 ms
+15:37:15:751 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@74a6a609: 16 ms
+15:37:15:770 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1c3146bc: 19 ms
+15:37:15:784 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5c8504fd: 13 ms
+15:37:15:822 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3e14c16d: 38 ms
+15:37:15:822 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3c989952: 0 ms
+16:00:06:321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+16:00:15:819 [main] INFO  testCases.TC002_Login_Test - Started TC002_Login_Test
+16:00:17:795 [main] INFO  testCases.TC002_Login_Test - Clicked on MyAccount link
+16:00:18:384 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+16:01:28:545 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+16:01:35:211 [main] INFO  testCases.TC002_Login_Test - Started TC002_Login_Test
+16:01:37:427 [main] INFO  testCases.TC002_Login_Test - Clicked on MyAccount link
+16:01:38:151 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+16:02:52:852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+16:03:00:132 [main] INFO  testCases.TC002_Login_Test - Started TC002_Login_Test
+16:03:04:024 [main] INFO  testCases.TC002_Login_Test - Clicked on MyAccount link
+16:03:05:011 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+16:03:09:805 [main] INFO  testCases.TC002_Login_Test - Finished TC002_Login_Test
+10:30:08:068 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+10:30:37:377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+10:31:07:599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+10:32:38:654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+10:34:12:852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+11:37:13:946 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+11:39:19:109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+12:04:44:341 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+12:11:20:778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+
+12:11:28:508 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+12:12:02:572 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+12:12:02:597 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+12:12:27:744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Workspace\Hybrid Driven Framework\HybridDrivenFrameworkProject\matertestng.xml
+

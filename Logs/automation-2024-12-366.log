@@ -1,0 +1,45 @@
+17:38:50:232 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+17:39:22:670 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+17:47:21:288 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+17:47:21:328 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+17:47:30:311 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+17:47:33:468 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+17:47:36:498 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+17:47:36:502 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+17:47:40:922 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+17:47:40:967 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+17:47:41:234 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+17:47:41:253 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+17:47:48:079 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
+17:47:50:979 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+17:47:51:662 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+17:47:54:545 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
+18:05:55:749 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+18:05:55:830 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+18:06:03:291 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+18:06:06:913 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:06:10:772 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:06:10:775 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+18:06:15:328 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+18:06:15:368 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+18:06:15:800 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+18:06:15:815 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+18:06:21:857 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
+18:06:24:658 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+18:06:25:341 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+18:06:31:546 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
+18:19:35:636 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+18:19:35:668 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+18:19:45:150 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+18:19:48:950 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:19:52:347 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:19:52:452 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+18:19:56:751 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+18:19:56:810 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+18:21:38:650 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+18:21:38:703 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+18:21:46:574 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+18:21:49:990 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+18:21:53:493 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+18:21:53:498 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+18:21:57:902 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..

@@ -1,0 +1,51 @@
+19:01:04:819 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+19:01:04:882 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+19:01:12:876 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+19:03:02:163 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+19:03:05:659 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+19:03:08:092 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+19:03:08:104 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+19:03:11:645 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+19:03:11:699 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+19:03:18:155 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+19:05:35:770 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+19:05:38:421 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+19:05:41:102 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+19:05:41:110 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+19:05:44:631 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+19:05:44:669 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+19:05:51:127 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+19:07:18:575 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+19:07:21:636 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+19:07:24:476 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+19:07:24:480 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+19:07:28:004 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+19:07:28:045 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+19:07:39:763 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
+19:07:42:553 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+19:07:43:332 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+19:07:46:102 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
+20:00:13:094 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+20:00:19:384 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:00:25:260 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:00:25:263 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+20:00:32:908 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:00:32:980 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+20:00:39:528 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+20:28:58:412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Framework Workspace\HybridDrivenFrameworkProject\crossbrowsertestngserial.xml
+
+20:29:01:231 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+20:29:01:269 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+20:29:09:591 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+20:29:13:171 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:29:17:440 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:29:17:450 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+20:29:21:382 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+20:29:21:424 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+20:29:29:558 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+20:35:22:030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Framework Workspace\HybridDrivenFrameworkProject\crossbrowsertestngserial.xml
+
+20:35:22:823 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+20:35:22:879 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
