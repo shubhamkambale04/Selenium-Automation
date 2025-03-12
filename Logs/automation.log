@@ -1,5 +1,8 @@
-15:52:37:255 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@43da0955: 0 ms
-15:52:37:300 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7243145f: 38 ms
-15:52:37:311 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7aaad0: 11 ms
-15:52:37:319 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79627d27: 7 ms
-15:52:37:320 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6371cf2f: 1 ms
+10:23:39:041 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
+10:23:39:088 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
+10:23:45:768 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+10:23:48:868 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+10:23:51:310 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+10:23:51:342 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+10:23:54:178 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+10:23:54:224 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
