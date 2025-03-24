@@ -1,8 +1,6 @@
-10:23:39:041 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.126 (resolved driver for Chrome 133)
-10:23:39:088 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\133.0.6943.126\chromedriver.exe
-10:23:45:768 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
-10:23:48:868 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
-10:23:51:310 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
-10:23:51:342 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
-10:23:54:178 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
-10:23:54:224 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+10:18:04:087 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+10:18:10:683 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+10:18:10:689 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+10:18:42:018 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+10:18:42:127 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+10:18:45:701 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link

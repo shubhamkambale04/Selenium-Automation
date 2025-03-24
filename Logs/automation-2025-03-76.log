@@ -1,0 +1,45 @@
+10:13:45:948 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+10:14:10:181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Framework Workspace\SeleniumAutomationProject\mastertestng.xml
+
+10:14:11:290 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+10:14:11:369 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+10:14:17:681 [main] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+10:14:19:861 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+10:14:22:178 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+10:14:22:181 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+10:14:25:968 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected msg..
+10:14:26:008 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistration_Test
+10:14:26:297 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+10:14:26:317 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+10:14:31:140 [main] INFO  testCases.TC002_LoginTest - Started TC002_Login_Test
+10:14:33:627 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+10:14:34:248 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+10:14:36:684 [main] INFO  testCases.TC002_LoginTest - Finished TC002_Login_Test
+10:14:36:950 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+10:14:36:971 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+10:14:51:013 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+10:15:04:432 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+10:15:04:439 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+10:15:37:980 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+10:15:37:995 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+10:16:11:806 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+10:16:11:818 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+10:16:16:518 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+10:16:16:542 [main] INFO  testCases.TC003_LoginDDT - Starting_TC_003_LoginDDT
+10:16:50:080 [main] INFO  testCases.TC003_LoginDDT - Finished_TC_003_LoginDDT
+10:17:49:734 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Framework Workspace\SeleniumAutomationProject\crossbrowsertestngparallel.xml
+
+10:17:50:933 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 134.0.6998.88 (resolved driver for Chrome 134)
+10:17:51:022 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\HP\.cache\selenium\chromedriver\win64\134.0.6998.88\chromedriver.exe
+10:17:53:008 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+10:17:53:365 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 134.0.3124.72 (resolved driver for Edge 134)
+10:17:53:413 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+10:17:53:726 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+10:17:55:583 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://msedgewebdriverstorage.blob.core.windows.net/edgewebdriver/134.0.3124.72/edgedriver_win64.zip
+10:17:56:514 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file geckodriver-v0.36.0-win64.zip
+10:17:56:750 [TestNG-tests-3] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\HP\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+10:18:00:061 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Started TC001_AccountRegistration_Test
+10:18:02:356 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_win64.zip
+10:18:03:713 [TestNG-tests-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\HP\.cache\selenium\msedgedriver\win64\134.0.3124.72\msedgedriver.exe

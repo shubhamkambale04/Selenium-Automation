@@ -4,32 +4,6 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" parallel="tests" name="chrometest(failed)">
-    <parameter name="os" value="linux"/>
-    <parameter name="browser" value="chrome"/>
-    <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="verify_account_registration"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </classes>
-  </test> <!-- chrometest(failed) -->
-  <test thread-count="5" parallel="tests" name="firefoxtest(failed)">
-    <parameter name="os" value="linux"/>
-    <parameter name="browser" value="firefox"/>
-    <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="verify_account_registration"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
-    </classes>
-  </test> <!-- firefoxtest(failed) -->
   <test thread-count="5" parallel="tests" name="edgetest(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="edge"/>
@@ -43,4 +17,30 @@
       </class> <!-- testCases.TC001_AccountRegistrationTest -->
     </classes>
   </test> <!-- edgetest(failed) -->
+  <test thread-count="5" parallel="tests" name="firefoxtest(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- firefoxtest(failed) -->
+  <test thread-count="5" parallel="tests" name="chrometest(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="verify_account_registration"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+    </classes>
+  </test> <!-- chrometest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
